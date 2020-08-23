@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="accident">
+        <item>교통사고</item>
+        <item>공사현장</item>
+        <item>범죄</item>
+        <item>자연재해</item>
+        <item>시설물 고장</item>
+        <item>소음</item>
+        <item>화재</item>
+        <item>야생동물</item>
+        <item>기타</item>
+    </string-array>
+</resources>

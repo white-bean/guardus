@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="local">
+        <item>개포동</item>
+        <item>공덕동</item>
+        <item>아현동</item>
+        <item>상암동</item>
+        <item>역삼동</item>
+        <item>합정동</item>
+        <item>신사동</item>
+        <item>신설동</item>
+        <item>명일동</item>
+        <item>고덕동</item>
+        <item>상일동</item>
+        <item>길동</item>
+        <item>홍제동</item>
+        <item>북가좌동</item>
+        <item>북아현동</item>
+        <item>암사동</item>
+        <item>성내동</item>
+        <item>천호동</item>
+        <item>미아동</item>
+        <item>번동</item>
+        <item>수유동</item>
+        <item>우이동</item>
+        <item>삼양동</item>
+        <item>송중동</item>
+        <item>삼각산동</item>
+        <item>마곡동</item>
+        <item>등촌동</item>
+        <item>화곡동</item>
+        <item>신림동</item>
+        <item>낙성대동</item>
+        <item>중곡동</item>
+        <item>구의동</item>
+        <item>광장동</item>
+        <item>월곡동</item>
+        <item>월계동</item>
+        <item>공릉동</item>
+        <item>하계동</item>
+        <item>쌍문동</item>
+        <item>휘경동</item>
+        <item>방학동</item>
+    </string-array>
+</resources>
